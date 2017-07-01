@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  model: MyString
+  sku: MyString
+  serial_number: MyString
+  cost_price: 9.99
+  price: 9.99
+  inventory: 1
+  vendor: MyString
+
+two:
+  model: MyString
+  sku: MyString
+  serial_number: MyString
+  cost_price: 9.99
+  price: 9.99
+  inventory: 1
+  vendor: MyString

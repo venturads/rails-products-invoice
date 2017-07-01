@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  product_id: 
+  line_items: 1
+  total_price: 9.99
+  discount: 9.99
+  amount_paid: 9.99
+  due_date: MyString
+
+two:
+  product_id: 
+  line_items: 1
+  total_price: 9.99
+  discount: 9.99
+  amount_paid: 9.99
+  due_date: MyString
