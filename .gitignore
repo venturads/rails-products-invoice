@@ -15,5 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
-Gemfile
-Gemfile.lock
+./Gemfile
+./Gemfile.lock
